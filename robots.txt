@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://batarfoodshop.netlify.app/sitemap.xml
